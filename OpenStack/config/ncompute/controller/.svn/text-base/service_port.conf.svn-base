@@ -1,0 +1,9 @@
+rcxhttp         23461/tcp
+rcxtask         23462/tcp
+#rcxdb           23465/tcp
+rcxapp1         23466/tcp
+rcxapp2         23467/tcp
+rcxapp3         23468/tcp
+rorwodb         23460/tcp rcxdb
+
+

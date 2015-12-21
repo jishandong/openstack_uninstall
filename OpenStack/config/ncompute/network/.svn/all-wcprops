@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/Pfsoft/ror/!svn/ver/62972/US-1214-H/1_Working_Lib/RORwO/03_PG/source/openstack_uninstall/uninstall-source2.0/OpenStack/config/ncompute/network
+END
+group.conf
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/Pfsoft/ror/!svn/ver/62774/US-1214-H/1_Working_Lib/RORwO/03_PG/source/openstack_uninstall/uninstall-source2.0/OpenStack/config/ncompute/network/group.conf
+END
+rpm.conf
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/Pfsoft/ror/!svn/ver/62972/US-1214-H/1_Working_Lib/RORwO/03_PG/source/openstack_uninstall/uninstall-source2.0/OpenStack/config/ncompute/network/rpm.conf
+END
+user.conf
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/Pfsoft/ror/!svn/ver/62774/US-1214-H/1_Working_Lib/RORwO/03_PG/source/openstack_uninstall/uninstall-source2.0/OpenStack/config/ncompute/network/user.conf
+END
+file.conf
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/Pfsoft/ror/!svn/ver/62774/US-1214-H/1_Working_Lib/RORwO/03_PG/source/openstack_uninstall/uninstall-source2.0/OpenStack/config/ncompute/network/file.conf
+END
+service_port.conf
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/Pfsoft/ror/!svn/ver/62774/US-1214-H/1_Working_Lib/RORwO/03_PG/source/openstack_uninstall/uninstall-source2.0/OpenStack/config/ncompute/network/service_port.conf
+END

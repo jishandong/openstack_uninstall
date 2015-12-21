@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/Pfsoft/ror/!svn/ver/63103/US-1214-H/1_Working_Lib/RORwO/03_PG/source/openstack_uninstall/uninstall-source2.0/OpenStack/unsetup
+END
+networknode
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/Pfsoft/ror/!svn/ver/63103/US-1214-H/1_Working_Lib/RORwO/03_PG/source/openstack_uninstall/uninstall-source2.0/OpenStack/unsetup/networknode
+END
+allinone
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/Pfsoft/ror/!svn/ver/63103/US-1214-H/1_Working_Lib/RORwO/03_PG/source/openstack_uninstall/uninstall-source2.0/OpenStack/unsetup/allinone
+END
+computenode
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/Pfsoft/ror/!svn/ver/63103/US-1214-H/1_Working_Lib/RORwO/03_PG/source/openstack_uninstall/uninstall-source2.0/OpenStack/unsetup/computenode
+END
+controller
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/Pfsoft/ror/!svn/ver/63103/US-1214-H/1_Working_Lib/RORwO/03_PG/source/openstack_uninstall/uninstall-source2.0/OpenStack/unsetup/controller
+END

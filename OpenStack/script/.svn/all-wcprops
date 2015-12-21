@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/Pfsoft/ror/!svn/ver/63300/US-1214-H/1_Working_Lib/RORwO/03_PG/source/openstack_uninstall/uninstall-source2.0/OpenStack/script
+END
+unset_repository.sh
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/Pfsoft/ror/!svn/ver/62774/US-1214-H/1_Working_Lib/RORwO/03_PG/source/openstack_uninstall/uninstall-source2.0/OpenStack/script/unset_repository.sh
+END
+unsetup_functions
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/Pfsoft/ror/!svn/ver/63300/US-1214-H/1_Working_Lib/RORwO/03_PG/source/openstack_uninstall/uninstall-source2.0/OpenStack/script/unsetup_functions
+END
